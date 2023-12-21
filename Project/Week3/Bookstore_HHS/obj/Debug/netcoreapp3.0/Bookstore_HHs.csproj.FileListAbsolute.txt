@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\bin\Debug\netcoreapp3.0\Bookstore_HHs.exe
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\bin\Debug\netcoreapp3.0\Bookstore_HHs.deps.json
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\bin\Debug\netcoreapp3.0\Bookstore_HHs.runtimeconfig.json
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\bin\Debug\netcoreapp3.0\Bookstore_HHs.runtimeconfig.dev.json
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\bin\Debug\netcoreapp3.0\Bookstore_HHs.dll
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\bin\Debug\netcoreapp3.0\Bookstore_HHs.pdb
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.AssemblyInfo.cs
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.dll
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.pdb
+C:\Users\user\Desktop\황효성\과제\Week3\Bookstore_HHs\obj\Debug\netcoreapp3.0\Bookstore_HHs.genruntimeconfig.cache
